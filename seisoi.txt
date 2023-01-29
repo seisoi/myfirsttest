@@ -5,3 +5,9 @@ Trời xanh mây trắng nắng vàng
 Có con chó cỏ sủa gâu gâu
 Có con mèo kêu mew moew
 -- Kết thúc sửa
+
+--Đây là phần của seisoi
+Con cá vàng lửng lơ
+Con chim ngu ngox
+--Kết thúc phần seisoi
+
